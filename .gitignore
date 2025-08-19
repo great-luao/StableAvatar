@@ -1,1 +1,6 @@
 examples/
+checkpoints/
+output_infer/
+outputs/
+venv/
+*.pyc
